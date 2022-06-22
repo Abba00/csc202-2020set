@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nunjucks": "^3.2.3"
+  },
+  "devDependencies": {
+    "@types/nunjucks": "^3.2.1"
+  }
+}
